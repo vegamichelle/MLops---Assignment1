@@ -1,6 +1,6 @@
 # Movie Review Sentiment Analyzer
 
-This is a simple web app that predicts whether a movie review is positive or negative. It uses a Naive Bayes model trained on the IMDB dataset and is built with Streamlit.
+This is a simple web app that predicts whether a movie review is positive or negative.
 
 ## How to run it
 
